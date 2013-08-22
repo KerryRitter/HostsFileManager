@@ -1,0 +1,15 @@
+C:\Workspaces\HostsFileManager\HostsFileManager\bin\Debug\HostsFileManager.exe
+C:\Workspaces\HostsFileManager\HostsFileManager\bin\Debug\HostsFileManager.pdb
+C:\Workspaces\HostsFileManager\HostsFileManager\obj\x86\Debug\HostsFileManager.HostsFileManager.resources
+C:\Workspaces\HostsFileManager\HostsFileManager\obj\x86\Debug\HostsFileManager.Properties.Resources.resources
+C:\Workspaces\HostsFileManager\HostsFileManager\obj\x86\Debug\HostsFileManager.csproj.GenerateResource.Cache
+C:\Workspaces\HostsFileManager\HostsFileManager\obj\x86\Debug\HostsFileManager.exe
+C:\Workspaces\HostsFileManager\HostsFileManager\obj\x86\Debug\HostsFileManager.pdb
+C:\Spikes\HostsFileManager\Source\obj\x86\Debug\HostsFileManager.exe
+C:\Spikes\HostsFileManager\Source\obj\x86\Debug\HostsFileManager.pdb
+C:\Spikes\HostsFileManager\Source\bin\Debug\HostsFileManager.exe
+C:\Spikes\HostsFileManager\Source\bin\Debug\HostsFileManager.pdb
+C:\Spikes\HostsFileManager\Source\obj\x86\Debug\HostsFileManager.csprojResolveAssemblyReference.cache
+C:\Spikes\HostsFileManager\Source\obj\x86\Debug\HostsFileManager.HostsFileManager.resources
+C:\Spikes\HostsFileManager\Source\obj\x86\Debug\HostsFileManager.Properties.Resources.resources
+C:\Spikes\HostsFileManager\Source\obj\x86\Debug\HostsFileManager.csproj.GenerateResource.Cache
